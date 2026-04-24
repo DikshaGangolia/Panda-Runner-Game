@@ -1,4 +1,3 @@
-# Panda-Runner-Game
 # Panda Runner Game
 
 ## Overview
