@@ -1,5 +1,4 @@
 # Panda Runner Game
-
 ## Overview
 
 Panda Runner Game is a simple web-based endless runner game developed using **HTML, CSS, and JavaScript**. The player controls a giant panda that runs continuously and must avoid obstacles to survive and score points.
