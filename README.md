@@ -82,6 +82,13 @@ Through this project, the following concepts were practiced:
 
 ---
 
+## Contributors
+
+* **Diksha Gangolia** — Project development
+* **Satyam Vohra** — Collaborative README improvement
+
+---
+
 ## Author
 
 Developed as a mini project for learning web development and game design concepts.
