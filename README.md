@@ -87,6 +87,10 @@ Through this project, the following concepts were practiced:
 * **Diksha Gangolia** — Project development
 * **Satyam Vohra** — Collaborative README improvement
 
+## Contributing
+
+Contributions are welcome. Please read `CONTRIBUTING.md` before opening a pull request and keep changes focused and easy to review.
+
 ---
 
 ## Author
