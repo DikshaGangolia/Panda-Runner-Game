@@ -42,6 +42,7 @@ The project focuses on applying fundamental game development concepts such as **
 | **Spacebar** | Jump |
 | **Up Arrow** | Jump |
 
+
 🎯 **Goal:** Avoid obstacles and survive for as long as possible.
 
 ---
