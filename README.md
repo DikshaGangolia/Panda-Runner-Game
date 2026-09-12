@@ -5,7 +5,6 @@
 ## 🎮 Game Overview
 
 **Panda Runner Game** is a simple browser-based endless runner developed using **HTML, CSS, and JavaScript**. The player controls a panda that continuously moves through the game environment and must jump over obstacles to survive.
-
 The project focuses on applying fundamental game development concepts such as **animations, collision detection, score tracking, event handling, and interactive user controls** using front-end web technologies.
 
 ---
