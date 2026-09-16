@@ -95,15 +95,11 @@ Panda-Runner-Game/
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-
 ```bash
 git clone https://github.com/DikshaGangolia/Panda-Runner-Game.git
 ```
-
 2. Open the project folder.
-
 3. Launch `modi.html` in any modern web browser.
-
 4. Use the **Spacebar** or **Up Arrow** to control the panda.
 
 ---
