@@ -60,7 +60,6 @@ The project focuses on applying fundamental game development concepts such as **
 ## 🧠 Concepts Demonstrated
 
 This project helped in practicing important front-end and game development concepts:
-
 - DOM Manipulation
 - Event Handling
 - JavaScript Game Logic
