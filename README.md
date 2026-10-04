@@ -46,6 +46,7 @@ The project focuses on applying fundamental game development concepts such as **
 🎯 **Goal:** Avoid obstacles and survive for as long as possible.
 
 ---
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
