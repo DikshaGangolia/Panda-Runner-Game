@@ -106,7 +106,6 @@ git clone https://github.com/DikshaGangolia/Panda-Runner-Game.git
 ## 🔮 Future Improvements
 
 Possible enhancements for the game include:
-
 - 🎚️ Multiple difficulty levels
 - ⚡ Power-ups and rewards
 - 🏆 High-score saving system
